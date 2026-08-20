@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e7218e8-2cc4-43a5-96b0-9379c09bff25" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SimTown/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SimTown/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SimTown/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SimTown/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/02.Scripts/Common/Constants.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/02.Scripts/Common/Constants.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/02.Scripts/Sim.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="3IABvbnIL6D4GEl2E5toBKfrAFy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e7218e8-2cc4-43a5-96b0-9379c09bff25" name="Changes" comment="" />
+      <created>1787197723501</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1787197723501</updated>
+      <workItem from="1787197724617" duration="60000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityProjectDiscoverer">
+    <option name="unityProjectFolder" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

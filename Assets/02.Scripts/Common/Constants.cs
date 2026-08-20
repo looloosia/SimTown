@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class Constants
 {
-    public int MaxPower = 100;
+    public const int MaxPower = 100;
 
     public enum Values
     {

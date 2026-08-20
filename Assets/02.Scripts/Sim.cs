@@ -4,7 +4,15 @@ public class Sim : MonoBehaviour
 {
     private int power;
     
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    private int mercy;
+    private int ambition;
+    private int cunning;
+    private int boldness;
+    private int lust;
+
+    private int hunger;
+    private int content;
+    private int sleep;
 
     void Awake()
     {
@@ -14,8 +22,7 @@ public class Sim : MonoBehaviour
     {
         
     }
-
-    // Update is called once per frame
+    
     void Update()
     {
         
@@ -30,7 +37,14 @@ public class Sim : MonoBehaviour
     {
         switch (value)
         {
-            
+            case (Constants.Values.Power):
+                power += amount;
+                break;
         }
+    }
+
+    void OnClick()
+    {
+        
     }
 }
